@@ -49,7 +49,7 @@
 <samp>
    <p align="center">
       <a href="https://github.com/LucasCalesco/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCalesco&langs_count=6&theme=graywhite&layout=compact&hide_border=true"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCalesco&langs_count=6&theme=dark&layout=compact&hide_border=true"
          alt="LucasCalesco :: overall Top Langs "
          style="background-color: black; opacity: 0.8;" />
       </a>
